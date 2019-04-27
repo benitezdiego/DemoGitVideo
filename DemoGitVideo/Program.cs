@@ -10,7 +10,10 @@ namespace DemoGitVideo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hola Mundo");
+
+
+
+            Console.Write("Fin del programa. Presione una tecla para continuar");
             Console.ReadKey();
         }
     }
